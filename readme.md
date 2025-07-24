@@ -210,7 +210,59 @@
             </table>
         </td>
     </tr>
-    <!-- ======== نهاية مكان النسخ ========= -->
+    <!-- ======== نهاية مكان النسخ ========= -->    
+    <!-- Ahmed Saad Alrefaey -->
+    <tr>
+        <td align="center" width="600">
+        &nbsp;&nbsp
+            <a href="https://github.com/AhmedSaadRF">
+                <img src="https://avatars.githubusercontent.com/u/211662174?v=4" width="100" style="border-radius: 50%;">
+                <br>
+                <h2>Ahmed Saad Alrefaey</h2>
+            </a>
+            <br>            
+            <table>
+                <tr> 
+                    <!-- TWITTER -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
+                            <img src="./images/twitter-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// TWITTER //-->
+                    <!-- LINKED IN -->
+                    <td>
+                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
+                            <img src="./images/linkedin-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// LINKED IN //-->
+                    <!-- FACEBOOK -->
+                    <td>
+                        <a href="https://www.facebook.com/ahmed.alrefaey.397073">
+                            <img src="./images/facebook-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// FACEBOOK //-->
+                    <!-- INSTAGRAM -->
+                    <td>
+                        <a href="https://www.instagram.com/ahmed7_707_7/">
+                            <img src="./images/instagram-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// INSTAGRAM //-->
+                    <!-- GITHUB -->
+                    <td>
+                        <a href="https://github.com/AhmedSaadRF">
+                            <img src="./images/github-logo.png" width="30">
+                        </a>
+                    </td>
+                    <!--// GITHUB //-->
+                </tr>
+            </table>            
+        </td>
+    </tr>
+    <!-- Ahmed Saad Alrefaey -->
     <tr>
         <td align="center" width="600">
         &nbsp;&nbsp
@@ -2310,58 +2362,5 @@
         </td>
     </tr>
     <!--// Mohammad Amin Taha //-->
-
-    <!-- Ahmed Saad Alrefaey -->
-    <tr>
-        <td align="center" width="600">
-        &nbsp;&nbsp
-            <a href="https://github.com/AhmedSaadRF">
-                <img src="https://github.com/account" width="50">
-                <br>
-                <h2>Ahmed Saad Alrefaey</h2>
-            </a>
-            <br>            
-            <table>
-                <tr> 
-                    <!-- TWITTER -->
-                    <td>
-                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
-                            <img src="./images/twitter-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// TWITTER //-->
-                    <!-- LINKED IN -->
-                    <td>
-                        <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
-                            <img src="./images/linkedin-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// LINKED IN //-->
-                    <!-- FACEBOOK -->
-                    <td>
-                        <a href="https://www.facebook.com/ahmed.alrefaey.397073">
-                            <img src="./images/facebook-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// FACEBOOK //-->
-                    <!-- INSTAGRAM -->
-                    <td>
-                        <a href="https://www.instagram.com/ahmed7_707_7/">
-                            <img src="./images/instagram-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// INSTAGRAM //-->
-                    <!-- GITHUB -->
-                    <td>
-                        <a href="https://github.com/AhmedSaadRF">
-                            <img src="./images/github-logo.png" width="30">
-                        </a>
-                    </td>
-                    <!--// GITHUB //-->
-                </tr>
-            </table>            
-        </td>
-    </tr>
-    <!-- Ahmed Saad Alrefaey -->
 
 </table>
